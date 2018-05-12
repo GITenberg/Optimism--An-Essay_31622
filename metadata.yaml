@@ -1,0 +1,35 @@
+_repo: Optimism--An-Essay_31622
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keller, Helen
+    alias: Keller, Helen Adams
+    birthdate: 1880
+    deathdate: 1968
+    gutenberg_agent_id: '895'
+    url: http://www.gutenberg.org/2009/agents/895
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Keller
+description: Stuck in a rut? Need an attitude adjustment? This inspirational classic
+  from American author Helen Keller is bound to fit the bill. Rendered deaf and blind
+  by scarlet fever in her infancy in a time when the disabled were often shunned and
+  ignored, Keller managed to learn to read, write, and speak, not in only in her native
+  English, but in several other languages, as well. Keller regards optimism as ""the
+  faith that leads to achievement, "" and this treatise lays out her views on making
+  ...
+gutenberg_issued: '2010-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31622'
+  lccn: 03030975
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Optimism'
+title: 'Optimism: An Essay'
+url: http://www.gutenberg.org/ebooks/31622
